@@ -1,0 +1,31 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    padding: 5px;
+    border: 1px solid black; 
+    margin: auto;  
+    text-align: center
+    font-weight: bold;
+    color: #C46210;
+}
+p {
+    color: #EFDECD;
+}
+body{
+    background-color: aliceblue;
+}
+
+
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+  }
+  
+
+  /**
+  Esto es un comentario dentro de css
+  Hola profe
+  /*
