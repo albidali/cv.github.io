@@ -1,0 +1,69 @@
+/* importamos las fuentes*/
+  @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;1,600&display=swap');
+*{
+    font-family: rubik web;
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+/** seccion inicio*/
+.inicio{
+    background: linear-gradient(#EFDECD(0,0,0,.3)),
+    url("img/background.jpg");
+    background-size: cover;
+    background-position: center;
+    color: blanchedalmond;
+}
+
+
+/*menu lateral*/
+.inicio.contenido-seccion header nav{
+    position: fixed;
+    margin-left: 60px;
+    background-color: aquamarine;
+    padding: 15px;
+    border border-radius: 10px;
+    text-align: :left;
+    z-index: 99;
+    display: none;
+    
+}
+
+
+
+
+
+
+
+
+
+    h1{
+    padding: 5px;
+    border: 1px solid black; 
+    margin: auto;  
+    text-align: center
+    font-weight: bold;
+    color: #C46210;
+}
+p {
+    color: #EFDECD;
+}
+body{
+    background-color: aliceblue;
+}
+
+
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+  }
+  
+
+  /**
+  Esto es un comentario dentro de css
+  Hola profe
+  /*
